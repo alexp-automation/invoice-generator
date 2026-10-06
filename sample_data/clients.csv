@@ -1,0 +1,5 @@
+client_id,name,contact,email,address,terms_days,tax_rate
+C01,Harbor Freight Partners,Dana Lewis,ap@harborfreight.example,"412 Bay St, Tampa, FL 33606",30,0
+C02,Sunrise Dental Group,Mark Chen,office@sunrisedental.example,"88 Palm Blvd, Orlando, FL 32801",15,0
+C03,Gulf Coast Realty,Priya Nair,priya@gulfcoastrealty.example,"7 Shore Dr, Sarasota, FL 34236",30,7
+C04,Bluewater Outfitters,Tom Alvarez,tom@bluewater.example,"230 Dock Rd, Clearwater, FL 33767",14,7

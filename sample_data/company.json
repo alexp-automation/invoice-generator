@@ -1,0 +1,7 @@
+{
+  "name": "Northline Studio",
+  "address": "100 Example Ave, Suite 200\nTampa, FL 33602",
+  "email": "billing@northline.example",
+  "payment_instructions": "ACH: Example Bank, routing 000000000, account 0000000000\nOr pay by card: https://pay.northline.example\nPlease include the invoice number with your payment.",
+  "footer": "Thank you for your business. Late payments over 30 days may incur a 1.5% monthly fee."
+}

@@ -1,0 +1,20 @@
+date,client_id,description,qty,unit_price
+2026-08-29,C01,Weekly lane-rate report,2,95
+2026-09-01,C02,Patient intake form cleanup,3,85
+2026-09-02,C04,Product feed fixes,0.5,80
+2026-09-03,C01,Driver settlement sheet fixes,2.5,95
+2026-09-05,C01,Driver settlement sheet fixes,2.5,95
+2026-09-08,C02,Patient intake form cleanup,2.5,85
+2026-09-16,C01,Weekly lane-rate report,2.5,95
+2026-09-16,C02,Appointment reminder bot updates,3,85
+2026-09-19,C03,MLS listing export to Google Sheets,4,90
+2026-09-21,C02,Appointment reminder bot updates,1,85
+2026-09-21,C02,Patient intake form cleanup,2,85
+2026-09-24,C04,Product feed fixes,2,80
+2026-09-24,C04,Product feed fixes,2.5,80
+2026-09-25,C03,MLS listing export to Google Sheets,1.5,90
+2026-09-26,C04,Product feed fixes,3,80
+2026-09-28,C03,MLS listing export to Google Sheets,4,90
+2026-09-29,C04,Product feed fixes,1,80
+2026-09-30,C01,Driver settlement sheet fixes,0.5,95
+2026-09-30,C02,Appointment reminder bot updates,4,85
